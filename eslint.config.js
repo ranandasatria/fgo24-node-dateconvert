@@ -14,7 +14,7 @@ export default defineConfig([
   }},
   { rules: {
     "semi": ["error", "always"],
-    "indent": ["error", 2,],
+    "indent": ["error", 2],
     "eqeqeq": ["warn", "always"],
     "indent": ["warn", 2],
     "comma-spacing": ["warn", { after: true }],
