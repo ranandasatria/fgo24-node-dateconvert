@@ -7,10 +7,6 @@ import readline from "readline"
 // - Jika input user tidak sesuai format. maka outputkan pesan "Format tanggal salah"
 // - Membuat padanan program tanpa external package, tapi dengan menggunakan alur sendiri
 
-// nama repo: fgo24-node-dateconver
-//  npm, init, index.json, deklarasi script
-//  yang diupload package.json dan package utama, index js     
-
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
